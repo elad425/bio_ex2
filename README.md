@@ -18,7 +18,7 @@ The project consists of the following key files:
   - Adjust GA parameters.
   - Compare the performance of different algorithms.
   - It also supports direct command-line arguments for non-interactive (scripted) execution.
-- `Genetic Algorithm for Solving Magic Squares report.docx`: the report for the assignment.
+- `Genetic Algorithm for Solving Magic Squares report.pdf`: the report for the assignment.
 - `magic_square_menu.exe`: the execution file for running the code without downloading libraries.
 
 ## ⚙️ Prerequisites
